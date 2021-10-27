@@ -2,8 +2,9 @@
 
 Welcome to the class repo!
 
-```python```
-def __init__():
-  having_fun = "obvi dah!"
+```python
+def __init__(self):
   
-  ```
+  self.having_fun = "obvi dah!"
+  
+```
