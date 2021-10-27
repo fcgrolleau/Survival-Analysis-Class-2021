@@ -3,8 +3,8 @@
 Welcome to the class repo!
 
 ```python
-def __init__(self):
-  
-  self.having_fun = "obvi dah!"
+class survival_analysis:
+  def __init__(self):
+    self.having_fun = "obvi dah!"
   
 ```
