@@ -5,7 +5,12 @@ Welcome to the class repo!
 ```python
 class survival_analysis:
 
-  def __init__(self):
-  
-    self.having_fun = "obvi dah!"
+    def __init__(self):
+        self.having_fun = "obvi duh!"
+
+    def comprehension(self, focus):
+        if focus == True:
+            self.making_progress = True
+        else:
+            self.making_progress = False
 ```
