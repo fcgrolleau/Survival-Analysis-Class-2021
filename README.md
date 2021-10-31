@@ -9,7 +9,7 @@ class survival_analysis:
         self.having_fun = "obvi duh!"
 
     def comprehension(self, focus):
-        if focus == True:
+        if focus:
             self.making_progress = True
         else:
             self.making_progress = False
